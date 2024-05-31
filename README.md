@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is under construction, there will be notifiable information about person owning this account, in terms of work, etc, one day...
+This README is under construction, one day there will be information about person owning this account, in terms of code, work, etc...
 
 <blockquote>
 
